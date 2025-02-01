@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Helminah - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+    <script defer src="script.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Helminah Randriamananoro</h1>
+        <p>Assistante Virtuelle & Community Manager</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#about">À propos</a></li>
+            <li><a href="#skills">Compétences</a></li>
+            <li><a href="#experience">Expériences</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section id="about">
+        <h2>À propos de moi</h2>
+        <p>Je suis assistante virtuelle et community manager avec plus de 3 ans d'expérience. Fiable, disciplinée et créative, j'accompagne les entreprises dans leur développement.</p>
+    </section>
+
+    <section id="skills">
+        <h2>Compétences</h2>
+        <ul>
+            <li>Assistance administrative et personnelle</li>
+            <li>Gestion des réseaux sociaux</li>
+            <li>Emailing & Facturation</li>
+            <li>Création de contenus visuels et descriptifs</li>
+        </ul>
+    </section>
+
+    <section id="experience">
+        <h2>Expériences Professionnelles</h2>
+        <p>Community Manager et Assistante Virtuelle pour plusieurs entreprises en France, Suisse et États-Unis.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:helminahmalalaniaina@gmail.com">helminahmalalaniaina@gmail.com</a></p>
+        <p>Téléphone: +261 34 73 10 001</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Helminah Randriamananoro. Tous droits réservés.</p>
+    </footer>
+</body>
+</html>
